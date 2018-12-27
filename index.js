@@ -17,7 +17,7 @@ var katzDeli = []; // At the beginning of the day,
    }
    else
    return (`Currently serving ${katzDeli.shift()}.`);
- }	 }
+ }	 
 
   // Build a function currentLine that returns the current line.
  // For example, if katzDeliLine is currently ["Ada", "Grace"],
